@@ -37,12 +37,12 @@ nav ul li a:hover{
     color: #daa520;
 }
 .projects h2{
-    text-aling: center;
+    text-align: center;
     padding: 20px;
     margin: 15px;
 }
 .projects p {
-    text-aling: center;
+    text-align: center;
     font-size: 18px;
     line-height: 1.6;
     max-width: 500px;
@@ -106,5 +106,4 @@ footer {
     margin-top: 50px;
 }
   
-
   
